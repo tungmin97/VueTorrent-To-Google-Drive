@@ -4,7 +4,7 @@ This is my personal rendition of the MixLab project.
 
 # How to use
 
-Click <a href="https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb" target="_blank">HERE</a>.</br>
+Click <a href="https://github.com/tungmin97/VueTorrent-To-Google-Drive/blob/master/MiXLab.ipynb" target="_blank">HERE</a>.</br>
 
 # Thanks to
 
