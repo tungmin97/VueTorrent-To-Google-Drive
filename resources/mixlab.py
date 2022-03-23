@@ -672,7 +672,7 @@ def addUtils():
         runSh("touch /content/upload.txt")
     if not checkAvailable("/root/.ipython/mixlab.py"):
         runSh(
-            "wget -qq https://shirooo39.github.io/MiXLab/resources/mixlab.py \
+            "wget -qq https://raw.githubusercontent.com/tungmin97/VueTorrent-To-Google-Drive/resources/mixlab.py \
                 -O /root/.ipython/mixlab.py"
         )
     if not checkAvailable("checkAptUpdate.txt", userPath=True):
